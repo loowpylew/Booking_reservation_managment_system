@@ -1,0 +1,21 @@
+Email: yayipi3987@vpsrec.com
+
+Use link to access mail list: 
+https://temp-mail.org/en/view/63080942cb5905006bd97637
+
+Link to sql website to access phpmyadmin: 
+https://www.freesqldatabase.com/account/
+
+Hi
+
+Your account number is: 647033
+
+Your new database is now ready to use.
+
+To connect to your database use these details;
+
+Host: sql8.freesqldatabase.com
+Database name: sql8515172
+Database user: sql8515172
+Database password: 5I4KLZjtPL
+Port number: 3306
