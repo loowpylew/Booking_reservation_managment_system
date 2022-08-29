@@ -12,7 +12,7 @@ if(isset($_POST["submit"])){
        exit(); 
     }
 
-    uidExists($conn, $username, $username);
+    loginUser($conn, $username, $pwd);
 }
 else {
     header("location: views/login.php");
